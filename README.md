@@ -24,7 +24,7 @@
 `bagas juliansyah-tugas 9.py`
 * Tugas 2 :
   * a. ganjil-genap
-    `tugas 10-bagas juliansyah.py`
+    `tugas 10-bagas juliasnyah.py`
   * b. jam
     `tugas 10-2-bagas juliansyah.py`
 * Tugas Percabangan
