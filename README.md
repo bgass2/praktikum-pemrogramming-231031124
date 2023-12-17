@@ -21,12 +21,14 @@
 * Praktikum 8 : Password Berlapis 
 `praktikum-d8.py`
 * Tugas 1 : Dictionaries 
-
+`bagas juliansyah-tugas 9.py`
 * Tugas 2 :
-  * a. ganjil-genap 
-  * b. jam 
+  * a. ganjil-genap
+    `tugas 10-bagas juliansyah.py`
+  * b. jam
+    `tugas 10-2-bagas juliansyah.py`
 * Tugas Percabangan
-  * Batasan Nilai
-  * Panjang str 
-  * Batasan Pendapatan 
-  * Persentase
+  * Batasan Nilai `percabangan 1.py`
+  * Panjang str `percabangan 2.py`
+  * Batasan Pendapatan `percabangan 3.py`
+  * Persentase `percabangan 4.py`
